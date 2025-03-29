@@ -1,6 +1,5 @@
-# for-bf
-this for my cutie bee ef
-Love-Journal/
+# FOR-LOML
+This for my cutie bee ef
 ├── entries/
 │   ├── 2023-03-29.md
 │   ├── 2023-03-30.md
